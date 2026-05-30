@@ -69,7 +69,7 @@ Tools          Git  ·  GitHub  ·  VS Code  ·  Notion
 I'm open to **remote work, freelance projects, and collaborations** — especially if you're building something with real users and real problems.
 
 📬 sachinkumarwork2@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/your-linkedin-here)  
-🧩 [LeetCode](https://leetcode.com/your-leetcode-here)
+💼 [LinkedIn](https://www.linkedin.com/in/sachinkumar7106/)  
+🧩 [LeetCode](https://leetcode.com/u/sachinkumar7106/)
 
 > *If you're a recruiter or client: the best way to see how I think is my LeetCode profile and the LegalEase AI repo. Both show real work, not just code that compiles.*
