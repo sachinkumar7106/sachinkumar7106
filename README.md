@@ -23,11 +23,11 @@ I'm not just collecting frameworks. I'm learning how things *actually work* unde
 Upload a contract, get key insights extracted instantly. Multilingual AI chat interface, JWT auth, Gemini AI integration.  
 **Stack:** React · Node.js · Express · MongoDB · Gemini AI · Tailwind CSS · Framer Motion
 
-### 🗂️ [Kanban Project Tool](https://github.com/sachinkumar7106/kanban-tool) — Task Management App  
+### 🗂️ [Kanban Project Tool](https://github.com/sachinkumar7106/kanban-board) — Task Management App  
 Column-based task board with subtasks, progress tracking, and a clean responsive UI.  
 **Stack:** HTML · CSS · Vanilla JavaScript
 
-### 🏠 [WanderLust](https://github.com/sachinkumar7106/wanderlust) — Travel Listing Platform  
+### 🏠 [WanderLust]() — Travel Listing Platform  
 Full-stack property listing app with CRUD operations, MVC architecture, and cloud deployment.  
 **Stack:** Node.js · Express · MongoDB · EJS
 
