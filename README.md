@@ -63,7 +63,7 @@ Tools          Git  ·  GitHub  ·  VS Code  ·  Notion
 | LeetCode | Top 21% · Peak rating 1619 |
 | Problems solved | 400+ (LeetCode + CodeChef + GFG) |
 | Hackathon | Smart India Hackathon — team lead (6 members) |
-| Currently | 2nd year B.Tech CSE · Expected 2027 |
+| Currently | 4th year B.Tech CSE |
 
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sachinkumar7106?theme=dark&font=Fira%20Code&ext=contest)
